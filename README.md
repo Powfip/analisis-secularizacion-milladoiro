@@ -13,7 +13,7 @@ Optimización de Impacto: Determinar qué actividades y canales de comunicación
 Analizamos quiénes han contestado y qué tan cerca se sienten de la vida parroquial.
 
 Figura 1: Distribución de la participación por grupos de edad.
-![Distribución por grupos](output/figures/01_distribucion_grupos.png)
+![Distribución por grupos](outputs/figures/01_distribucion_grupos.png)
 Figura 2: Comparativa del nivel de conexión con la parroquia según el grupo.
 ![Conexión por grupos](outputs/figures/02_conexion_por_grupos.png)
 2. Análisis de Intereses
